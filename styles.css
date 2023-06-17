@@ -7,7 +7,7 @@
 .table:hover{
 	color:black;
 }
-table-dark{
+.table-dark{
 	background-color:black;
 }
 th{
@@ -19,6 +19,6 @@ th{
 caption{
 	text-align:start;
 }
-table-light{
+.table-light{
 	text-align:right;
 }
