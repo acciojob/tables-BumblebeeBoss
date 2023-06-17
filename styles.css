@@ -1,3 +1,10 @@
 
 /* Your CSS Code here. */
 <font-monospace, text-end, fw-bold>
+#total{
+	text-align:left;
+}
+th{
+	color:white;
+	background-color:black;
+}
