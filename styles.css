@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-<font-monospace, text-end, fw-bold>
+/* <font-monospace, text-end, fw-bold> */
 #total
 	text-align:left; 
 }
@@ -20,5 +20,7 @@ caption{
 	text-align:start;
 }
 .table-light{
-	text-align:right;
+	font:monospace; 
+	text:end;
+	fw:bold;
 }
