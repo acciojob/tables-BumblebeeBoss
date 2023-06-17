@@ -1,13 +1,21 @@
 
 /* Your CSS Code here. */
 <font-monospace, text-end, fw-bold>
-#total{
-	text-align:left;
+#total
+	text-align:left; 
+}
+table-dark{
+	background-color:black;
 }
 th{
+	
+	border:1px solid black;
 	color:white;
 	background-color:black;
 }
 caption{
 	text-align:start;
+}
+tfoot{
+	text-align:right;
 }
