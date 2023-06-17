@@ -3,6 +3,7 @@
 /* <font-monospace, text-end, fw-bold> */
 #total
 	text-align:left; 
+    content:justify;
 }
 .table:hover{
 	color:black;
