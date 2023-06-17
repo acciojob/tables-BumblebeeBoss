@@ -4,6 +4,9 @@
 #total
 	text-align:left; 
 }
+.table:hover{
+	color:black;
+}
 table-dark{
 	background-color:black;
 }
